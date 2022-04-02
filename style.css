@@ -110,6 +110,6 @@ li a:hover:not(.active) {
   .article-header{
       font-size: 2em;
   }
-  .article-area-right{
+  /* .article-area-right{
       background-color: cadetblue;
-  }
+  } */
